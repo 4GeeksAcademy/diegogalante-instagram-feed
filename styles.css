@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: gray;
+    padding: 20px;
+    border-bottom: 1px;
+}
+
+.post {
+  background-color: gray;
+  width: 600px;
+  margin: 40px auto;
+  border: 1px;
+}
+
+.posthead {
+   display: flex;
+   justify-content: center;
+   padding: 10px 15px;
+   border: 1px;
+   font-size: 14px;
+}
+.post img {
+    width: 100%;
+    height: auto;
+}
+
+.postfoot{
+    padding: 15px;
+    font-size: 14px;
+    color: lavender;
+}
